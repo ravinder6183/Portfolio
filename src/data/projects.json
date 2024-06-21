@@ -1,0 +1,34 @@
+[
+    {
+      "title": "ToDo List App",
+      "imageSrc": "projects/project1.png",
+      "description": "This project is made to learn backend framework of a website using technologies like NodeJS.",
+      "skills": ["Express", "Node", "Ejs"],
+      "demo": "https://github.com/ravinder6183/TO-DO-LIST-APP",
+      "source": "https://github.com/ravinder6183/TO-DO-LIST-APP"
+    },
+    {
+      "title": "H1N1 Vaccine Prediction",
+      "imageSrc": "projects/project2.png",
+      "description": "Supervised machine learning models are used to predict whether a person is vaccinated or not",
+      "skills": ["Python", "Numpy", "Sklearn", "Ml"],
+      "demo": "https://colab.research.google.com/drive/1urOrPkPCLHq07JTcHWHq5tObX-jVBzNy?usp=sharing",
+      "source": "https://github.com/ravinder6183/Yhills/blob/main/h1n1_Vaccine_predictioin.ipynb"
+    },
+    {
+      "title": "Blog Website",
+      "imageSrc": "projects/project3.png",
+      "description": "This project helped me understand the concept of database connectivity by using MongoDB and NodeJS.",
+      "skills": [ "Node", "Express","MongoDb"],
+      "demo": "https://github.com/ravinder6183/Blog-Website",
+      "source": "https://github.com/ravinder6183/Blog-Website"
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project4.png",
+      "description": "This is a project made to learn the latest languages by building a portfolio.",
+      "skills": ["React", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
