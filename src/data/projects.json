@@ -28,7 +28,7 @@
       "imageSrc": "projects/project4.png",
       "description": "This is a project made to learn the latest languages by building a portfolio.",
       "skills": ["React", "CSS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://ravinder.netlify.app",
+      "source": "https://github.com/ravinder6183/Portfolio"
     }
   ]
