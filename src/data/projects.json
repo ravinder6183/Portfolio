@@ -1,5 +1,13 @@
-[
-    {
+[   
+  {
+    "title": "Krishna Stationery- Ecommerce website",
+    "imageSrc": "projects/project6.png",
+    "description": "This project helped to learn more about React and Node.Interation of frontend with the backend and depolyment of a website",
+    "skills": ["React", "Node", "Express"],
+    "demo": "https://krishna-stationery.netlify.app/",
+    "source": "https://github.com/ravinder6183/Krishna-Stationery"
+  },
+  {
       "title": "ToDo List App",
       "imageSrc": "projects/project1.png",
       "description": "This project is made to learn backend framework of a website using technologies like NodeJS.",
